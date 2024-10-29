@@ -6,7 +6,7 @@ Developer
 
 Passionate 22-year-old developer with a keen eye for detail and a drive to create seamless digital experiences.
 
-*   🌍  I'm based in morocco
+*   🌍  I'm based in Morocco
 *   ✉️  You can contact me at [salaheddineseven@gmail.com](mailto:salaheddineseven@gmail.com)
 *   🧠  I'm learning React and Tailwind Css
 *   ⚡  "By day, I’m a 22-year-old developer; by night… well, let’s just say I code like I’m Batman." 😎### Skills 
